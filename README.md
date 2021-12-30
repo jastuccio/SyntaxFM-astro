@@ -1,43 +1,15 @@
-# Welcome to [Astro](https://astro.build)
+![](./public/assets/wall-build.gif)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/starter)
+## Built with [Astro](https://astro.build)!
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b9ac421-c866-4153-bafa-39a803ad1020/deploy-status)](https://app.netlify.com/sites/jva-syntaxfm-astro/deploys)
 
-## 🚀 Project Structure
+Todo:
 
-Inside of your Astro project, you'll see the following folders and files:
+- style website
+  - custom styling for the media player
 
-```
-/
-├── public/
-│   ├── robots.txt
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   └── Tour.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+Done:
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command           | Action                                       |
-|:----------------  |:-------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:3000`  |
-| `npm run build`   | Build your production site to `./dist/`      |
-| `npm run preview` | Preview your build locally, before deploying |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://github.com/withastro/astro) or jump into our [Discord server](https://astro.build/chat).
+- ✅ host on Netlify - [Syntax.FM](https://jva-syntaxfm-astro.netlify.app/)
+  - 12/29/21 continuous deployment is currently turned off
